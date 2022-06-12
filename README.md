@@ -1,6 +1,6 @@
 # Desafio de Projeto DIO
-## Desenvolvendo um menu hamburguer e morphing menu com CSS transitions
+## Conjuntos de projetos desenvolvidos em aula na plataforma da dio
 
- - Reescrever código escrito em aula
+ - Reescrever códigos escrito em aula
  - Fazer alterações pessoais (nome, cor, transições...)
- - Incorporar links e usar como base para a criação de um portifólio real
+ - Incrementar com outros elementos e ferramentas estudadas
